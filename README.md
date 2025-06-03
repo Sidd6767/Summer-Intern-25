@@ -37,4 +37,5 @@ This internship involved practical experimentation with USRP (Universal Software
 
 * Took readings with the obstacle placed on the other two sides of the triangle.
 * Verified the power vs. distance plots for all three sides and all three receivers.
+* The plots had very little similarity for the plots, indicating incorrect GNU Radio settings or envirnonmental disturbances or some error in data gathering.
 
