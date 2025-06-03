@@ -30,6 +30,9 @@ This internship involved practical experimentation with USRP (Universal Software
 * Positioned the Rx at the center of the triangle.
 * Conducted measurements with the obstacle placed on one side of the triangle.
 
+  ![WhatsApp Image 2025-06-03 at 15 13 17_eac524f3](https://github.com/user-attachments/assets/92e69d9a-d5ae-4f90-9bc3-4fe1f94ea363)
+
+
 **3 June**
 
 * Took readings with the obstacle placed on the other two sides of the triangle.
