@@ -1,8 +1,9 @@
-# Summer Internship 2025: USRP Experiments
+# Summer Internship 2025: Object Identification using USRP in Gigahertz range
 
 ### Overview
 
 This internship involved practical experimentation with USRP (Universal Software Radio Peripheral) devices, focusing on wireless signal transmission, reception, and propagation in various configurations with obstacles.
+
 ![image](https://github.com/user-attachments/assets/b3df67c4-795a-47f8-94fb-99428c5a6ffa)
 
 ---
