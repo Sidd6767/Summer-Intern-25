@@ -29,7 +29,7 @@ This internship involved practical experimentation with USRP (Universal Software
 **2 June**
 
 * Arranged three receivers in an equilateral triangle configuration with sides of 120 cm.
-* Positioned the Rx at the center of the triangle.
+* Positioned the Tx at the center of the triangle.
 * Conducted measurements with the obstacle placed on one side of the triangle.
 
   ![WhatsApp Image 2025-06-03 at 15 13 17_eac524f3](https://github.com/user-attachments/assets/92e69d9a-d5ae-4f90-9bc3-4fe1f94ea363)
@@ -49,3 +49,7 @@ This internship involved practical experimentation with USRP (Universal Software
 * Instead of multiple receivers which may cause interfernce, use of only one receiver is optimal.
 * Signal to be transmitted is white noise instead of some specific waveform, to better identify the disturbances caused by the obstacle.
 
+**5 June**
+* Experimented the new setup of one Tx and one Rx by sending a white burst noise for 0.1 seconds.
+* The received power levels were plotted and the trends in power were observed.
+  
