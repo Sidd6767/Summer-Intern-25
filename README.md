@@ -50,6 +50,8 @@ This internship involved practical experimentation with USRP (Universal Software
 * Signal to be transmitted is white noise instead of some specific waveform, to better identify the disturbances caused by the obstacle.
 
 **5 June**
+![WhatsApp Image 2025-06-05 at 17.13.29_87a14d6c.jpg](attachment:11bf3eba-aa3f-40f3-8071-c3803e7d1e31:WhatsApp_Image_2025-06-05_at_17.13.29_87a14d6c.jpg)
 * Experimented the new setup of one Tx and one Rx by sending a white burst noise for 0.1 seconds.
 * The received power levels were plotted and the trends in power were observed.
+* The power levels showed a distinct gap with and without the object, which might be helpful in the future as we train ML algorithms.
   
