@@ -54,4 +54,10 @@ This internship involved practical experimentation with USRP (Universal Software
 * Experimented the new setup of one Tx and one Rx by sending a white burst noise for 0.1 seconds.
 * The received power levels were plotted and the trends in power were observed.
 * The power levels showed a distinct gap with and without the object, which might be helpful in the future as we train ML algorithms.
+
+**6 June**
+* Took the readings on the same setup but with 200k sample rate.
+* Observed the same readings on the reciever without the object, which led to the fact that power received by the Rx was constant and all disturbances were taken into account.
+* Plotted the Average power v/s sample index plot and it was almost similar to the yesterday's one, with discrepancies at some distances.
+
   
