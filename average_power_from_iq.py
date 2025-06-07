@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.signal import find_peaks
 
 # === Load IQ data ===
-iq = np.fromfile(r"C:\Users\Siddhant Jinturkar\OneDrive\Desktop\rx_output_10cm.cfile", dtype=np.complex64)
+iq = np.fromfile(r"C:\Users\Siddhant Jinturkar\OneDrive\Desktop\5G Research\rx_output_50cm_200k.cfile", dtype=np.complex64)
 power_db = 10 * np.log10(np.abs(iq)**2 + 1e-12)
 
 # === Ignore first 30,000 samples due to error spike ===
@@ -22,7 +22,7 @@ if len(peaks) == 0:
     exit()
 
 burst_start = peaks[0]           # Index in smoothed array
-burst_length = 20_000            # ~50 ms at 1 MS/s (adjust if needed)
+burst_length = 100_000            # ~50 ms at 1 MS/s (adjust if needed)
 burst_end = burst_start + burst_length
 
 # === Clamp to array bounds ===
